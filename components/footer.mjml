@@ -19,11 +19,11 @@
     <mj-section padding="0 0 16px">
         <mj-column>
             <mj-text align="center">
-                <img src="images/facebook.jpg" alt="facebook" class="footer_icon-padding" />
-                <img src="images/twitter.jpg" alt="twitter" class="footer_icon-padding" />
-                <img src="images/pinterest.jpg" alt="pinterest" class="footer_icon-padding" />
-                <img src="images/instagram.jpg" alt="instagram" class="footer_icon-padding" />
-                <img src="images/youtube.jpg" alt="youtube">
+                <a href="#"><img src="images/facebook.jpg" alt="facebook" class="footer_icon-padding" /></a>
+                <a href="#"><img src="images/twitter.jpg" alt="twitter" class="footer_icon-padding" /></a>
+                <a href="#"><img src="images/pinterest.jpg" alt="pinterest" class="footer_icon-padding" /></a>
+                <a href="#"><img src="images/instagram.jpg" alt="instagram" class="footer_icon-padding" /></a>
+                <a href="#"><img src="images/youtube.jpg" alt="youtube"></a>
             </mj-text>
         </mj-column>
     </mj-section>
@@ -34,8 +34,8 @@
     <mj-section padding="0 0 16px">
         <mj-column>
             <mj-text align="center">
-                <img src="images/apple-button.jpg" alt="apple" class="footer_icon-padding" />
-                <img src="images/google-button.jpg" alt="google-play" />
+                <a href="#"><img src="images/apple-button.jpg" alt="apple" class="footer_icon-padding" /></a>
+                <a href="#"><img src="images/google-button.jpg" alt="google-play" /></a>
             </mj-text>
         </mj-column>
     </mj-section>
