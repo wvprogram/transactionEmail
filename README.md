@@ -1,1 +1,1 @@
-# transactionEmail
+# Transactional HTML Email
